@@ -34,7 +34,7 @@ col3 <- "#263d45"
 # # # # # # # # # # ## # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # Import data
-dat <- read.delim("model-performance-data.txt", header = TRUE,
+dat <- read.delim("data/model-performance-data.txt", header = TRUE,
                   sep = "\t", quote = "", fileEncoding = "UTF-8")
 
 # Explore data
