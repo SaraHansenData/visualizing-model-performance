@@ -1,11 +1,12 @@
 # Visualizing Model Performance: Two metrics across groups
 ## Sara Hansen, hanse2s
-## Modified 2024-04-05
+## Modified 2024-04-18
 
 library(tidyverse) # data processing, visualization
 library(ggthemes) # all-in-one themes
 library(ggrepel) # neat labeling
 library(plotrix) # standard error calculation
+library(grid) # annotation text customization
 library(ggimage) # custom shapes for scatterplot
 library(magick) # read image for custom annotation
 
