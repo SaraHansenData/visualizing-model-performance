@@ -1,5 +1,5 @@
 # Visualizing Model Performance: Two metrics across groups
-## Sara Hansen, hanse2s
+## Sara Hansen, SaraHansenData
 ## Modified 2024-04-18
 
 library(tidyverse) # data processing, visualization
